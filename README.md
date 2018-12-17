@@ -2,4 +2,5 @@
 
 [新项目地址](https://github.com/bloodzer0/ossa)
 
-[网页版地址]()  上线时间：2018-12-12 23:55
+
+[网页版地址](https://bloodzer0.github.io/ossa/)
